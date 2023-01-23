@@ -14,7 +14,7 @@ await Firebase.initializeApp(
 );
 //tambah async sebelum kurung kurawal
 
-cloud_firestore: ^3.1.5
+flutter pub add cloud_firestore
 
 android/app/src/build.gradle
 multiDexEnabled true
