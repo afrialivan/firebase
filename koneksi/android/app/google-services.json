@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "680066116582",
+    "project_id": "latihan-koneksi",
+    "storage_bucket": "latihan-koneksi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680066116582:android:9752e5cdc2af430b5cc427",
+        "android_client_info": {
+          "package_name": "com.example.koneksi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680066116582-9jpfvck466o0ran5n1m6tl1ppegd8ukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55ZGQBfYrk9jVjQpSlE9OTasUDRxLvzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680066116582-9jpfvck466o0ran5n1m6tl1ppegd8ukc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680066116582-3sllgo1b0gv8rq5f2b3845tkbefn1hcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.koneksiFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680066116582:android:2f52ba89cac2d31a5cc427",
+        "android_client_info": {
+          "package_name": "com.example.koneksi_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680066116582-9jpfvck466o0ran5n1m6tl1ppegd8ukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55ZGQBfYrk9jVjQpSlE9OTasUDRxLvzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680066116582-9jpfvck466o0ran5n1m6tl1ppegd8ukc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680066116582-3sllgo1b0gv8rq5f2b3845tkbefn1hcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.koneksiFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
