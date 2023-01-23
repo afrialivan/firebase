@@ -1,0 +1,21 @@
+di paste di project
+1. flutter pub add firebase_core
+//pilih databasenya
+2. flutterfire configure
+
+3.
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
+
+4.
+WidgetsFlutterBinding.ensureInitialized();
+await Firebase.initializeApp(
+  options: DefaultFirebaseOptions.currentPlatform,
+);
+//tambah async sebelum kurung kurawal
+
+cloud_firestore: ^3.1.5
+
+android/app/src/build.gradle
+multiDexEnabled true
+minSdkVersion 19
